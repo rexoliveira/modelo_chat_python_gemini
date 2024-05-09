@@ -1,11 +1,6 @@
 <head><link rel="stylesheet" href="css/style.css"> </head>
 
-<section>
-
-<img src="./assets/python-banner-2048x1152.jpg" alt="my banner">
-
-</section>
-
+<div class="banner"></div>
 
 # modelo_chat_python_gemini
 
@@ -91,7 +86,7 @@ Thanks goes to these people ([emoji key][emojis]):
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://rexoliveira.com"><img src="https://avatars.githubusercontent.com/rexoliveira" width="100px;" alt="Rodrigo A. Oliveira"/><br /><sub><b>Rodrigo A. Oliveira</b></sub></a><br /><a href="https://github.com/rexoliveira" title="Code">💻</a> <a href="https://github.com/rexoliveira" title="Documentation">📖</a> <a href="#infra-rexoliveira" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/rexoliveira" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>

@@ -1,8 +1,9 @@
-section{
-    height:200px;
-    width: 100%;
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size: cover;
-   background-attachment: fixed;
-}
+.banner {
+    width: 100%; /* Faz o banner preencher todo o comprimento da tela */
+    height: 100px; /* Define a altura do banner como 200px */
+    background-image: url('../assets/python-banner-2048x1152.jpg'); /* Caminho para a imagem do banner */
+    background-size: cover; /* Garante que o banner cubra toda a área disponível sem esticar */
+    background-position: center; /* Centraliza a imagem do banner */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+  }
+  
