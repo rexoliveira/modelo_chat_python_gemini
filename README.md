@@ -1,0 +1,1 @@
+# modelo_chat_python_gemini
