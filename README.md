@@ -89,5 +89,5 @@ Thanks goes to these people ([emoji key][emojis]):
   </tbody>
 </table>
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/python-banner-2048x1152.jpg" />
 </h1>
