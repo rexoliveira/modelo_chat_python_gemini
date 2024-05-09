@@ -1,8 +1,10 @@
-<p align=”center”>
+<head><link rel="stylesheet" href="css/style.css"> </head>
 
-<img width="2000" height="200"  src="./assets/python-banner-2048x1152.jpg" alt="my banner">
+<section>
 
-</p>
+<img src="./assets/python-banner-2048x1152.jpg" alt="my banner">
+
+</section>
 
 
 # modelo_chat_python_gemini
