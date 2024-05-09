@@ -1,4 +1,9 @@
-![Rodrigo Oliveira](https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)
+<p align=”center”>
+
+<img width="2000" height="200"  src="./assets/python-banner-2048x1152.jpg" alt="my banner">
+
+</p>
+
 
 # modelo_chat_python_gemini
 
@@ -88,6 +93,4 @@ Thanks goes to these people ([emoji key][emojis]):
     </tr>
   </tbody>
 </table>
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/python-banner-2048x1152.jpg" />
-</h1>
+
